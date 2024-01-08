@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>jsjd.png</file>
+        <file>reset.png</file>
+        <file>return.png</file>
+        <file>sure.png</file>
+    </qresource>
+    <qresource prefix="/icon"/>
+</RCC>

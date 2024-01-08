@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-efc1b7c28dadb2ec1216.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "case01",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "case01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-case01-Debug-bcd238b9657b800f8d9c.json",
+					"name" : "case01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "case01_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-case01_autogen-Debug-6f386947040da8a90cd8.json",
+					"name" : "case01_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "case01_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-case01_autogen_timestamp_deps-Debug-f4201d8b194db325bea9.json",
+					"name" : "case01_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ren/Documents/GitHub/Qt/build-case01-Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/ren/Documents/GitHub/Qt/case01"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
